@@ -17,7 +17,7 @@ server_info_button:
   enable_webview_message_api: false
   enable_webview_strict_csp: true
 discord_button:
-  enable_button: true
+  enable_button: false
   button_text: 'Discord'
   button_url: 'https://invite url here'
 custom_images:
