@@ -1,0 +1,3 @@
+echo loading...
+cd ./Main
+java -jar -Xms64M -Xmx512M Velocity.jar
