@@ -12,9 +12,9 @@ server_info_button:
   enable_template_macros: true
   server_info_embed_template_globals:
     example_global: 'eagler'
-  allow_embed_template_eval_macro: false
-  enable_webview_javascript: false
-  enable_webview_message_api: false
+  allow_embed_template_eval_macro: true
+  enable_webview_javascript: true
+  enable_webview_message_api: true
   enable_webview_strict_csp: true
 discord_button:
   enable_button: false
