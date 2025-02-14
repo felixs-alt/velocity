@@ -1,0 +1,37 @@
+[23:25:26] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.4.0-SNAPSHOT (git-f986eb51-b472)...
+[23:25:26] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
+[23:25:26] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use NIO channels, Java compression, Java ciphers
+[23:25:26] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: Player info forwarding is disabled! All players will appear to be connecting from the proxy and will have offline-mode UUIDs.
+[23:25:26] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
+[23:25:26] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[23:25:26] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[23:25:26] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>      EAGLERCRAFTXVELOCITY WARNING:
+[23:25:26] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[23:25:26] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This plugin wasn't tested to be 'working'
+[23:25:26] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  with ANY version of Velocity (and forks)
+[23:25:26] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  apart from the versions listed below:
+[23:25:26] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[23:25:26] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  - Velocity: 3.4.0-SNAPSHOT:6995f415:b464
+[23:25:26] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  - https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/464/downloads/velocity-3.4.0-SNAPSHOT-464.jar
+[23:25:26] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[23:25:26] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This is not a Bukkit/Spigot plugin!
+[23:25:26] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[23:25:26] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  Use "-Deaglerxvelocity.stfu=true" to hide
+[23:25:26] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[23:25:26] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[23:25:26] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxvelocity 1.1.7 by lax1dude, ayunami2000
+[23:25:26] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 2 plugins
+[23:25:26] [EaglercraftXVelocity - Task Executor #0/WARN] [eaglerxvelocity]: This plugin is still in development, certain features may not be functional!
+[23:25:26] [EaglercraftXVelocity - Task Executor #0/WARN] [eaglerxvelocity]: Not recommended for public servers yet, please check for updates
+[23:25:26] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Total pause menu packet size: 8222 bytes
+[23:25:26] [Netty NIO Boss #0/INFO] [eaglerxvelocity]: Eaglercraft is listening on: /0.0.0.0:8081
+[23:25:27] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[23:25:27] [EaglercraftXVelocity - Task Executor #0/WARN] [eaglerxvelocity]: Voice chat enabled, not recommended for public servers!
+[23:25:27] [Netty NIO Boss #1/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0]:25565
+[23:25:27] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (1,05s)!
+[23:25:28] [Netty NIO Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:54281]: Connected via websocket
+[23:25:28] [Netty NIO Worker #0/INFO] [eaglerxvelocity]: [/[0:0:0:0:0:0:0:1]:54281]: Origin header is http://localhost:5500
+[23:25:28] [Netty NIO Worker #0/INFO] [eaglerxvelocity]: [connected player] YeeishEagler3342 (/[0:0:0:0:0:0:0:1]:54281) has connected
+[23:25:28] [Netty NIO Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] YeeishEagler3342 -> lobby has connected
+[23:25:39] [Netty NIO Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] YeeishEagler3342 (/[0:0:0:0:0:0:0:1]:54281) has disconnected
+[23:25:39] [Netty NIO Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] YeeishEagler3342 -> lobby has disconnected
