@@ -9,22 +9,14 @@ body {
 	margin: 16px;
 	font-family: sans-serif;
 }
+iframe {
+	width: 100%;
+	height: 100%;
+	border: none;
+}
 </style>
 </head>
 <body>
-
-<h1>Hello World</h1>
-
-{% htmlescape on %}
-<p>Server Name: {% global `server_name` %}</p>
-<p>Using: {% global `plugin_name` %} {% global `plugin_version` %}</p>
-<p>JVM: {% property `java.vm.name` `(unknown)` %} ({% property `java.vm.info` `null` %}) {% property `java.vm.vendor` `(unknown)` %}</p>
-{% htmlescape off %}
-
-<p><img src="data:image/png;base64,{% embed base64 `test_image.png` %}" /></p>
-
-<!-- Note: JPEGs are recommended for larger images to reduce their size -->
-<!-- <p><img src="data:image/jpeg;base64,(% embed base64 `large_image.jpg` %)" /></p> -->
-
+	<iframe src="https://proxy.wyzie.ru/http://ge-n1.eternalhosting.cloud:25980/"></iframe>
 </body>
 </html>
