@@ -1,4 +1,4 @@
-enable_custom_pause_menu: false
+enable_custom_pause_menu: true
 server_info_button:
   enable_button: true
   button_text: 'Server Info'
