@@ -7,7 +7,7 @@ listener_01:
   redirect_legacy_clients_to: 'null'
   server_icon: server-icon.png
   server_motd:
-  - '&6The Gamespace Server'
+  - '&6The Gamespace Minecraft Server'
   - '&aGamespaceMC'
   allow_motd: true
   allow_query: true
