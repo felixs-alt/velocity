@@ -39,5 +39,5 @@ custom_images:
   icon_disconnect_R: ''
   icon_background_pause: ''
   icon_background_all: ''
-  icon_watermark_pause: ''
-  icon_watermark_all: 'test_image.png'
+  icon_watermark_pause: 'test_image.png'
+  icon_watermark_all: ''
