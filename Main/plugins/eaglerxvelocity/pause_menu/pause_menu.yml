@@ -21,8 +21,8 @@ discord_button:
   button_text: 'Random Button'
   button_url: 'https://invite url here'
 custom_images:
-  icon_title_L: ''
-  icon_title_R: ''
+  icon_title_L: 'test_image.png'
+  icon_title_R: 'test_image.png'
   icon_backToGame_L: ''
   icon_backToGame_R: ''
   icon_achievements_L: ''
