@@ -3,7 +3,7 @@ server_info_button:
   enable_button: true
   button_text: 'Server Map'
   button_mode_open_new_tab: true
-  server_info_embed_url: 'http://ge-n1.eternalhosting.cloud:25980/'
+  server_info_embed_url: 'http://free1.eternalhosting.cloud:27184/'
   button_mode_embed_file: false
   server_info_embed_file: 'server_info.html'
   server_info_embed_screen_title: 'Map'
