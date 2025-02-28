@@ -1,0 +1,162 @@
+{
+	"frame0": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "&6          The Gamespace Minecraft Server",
+		"text1": "&l&aGamespace&r&e&o&l&nMC"
+	},
+	"frame1": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "          The Gamespace Minecraft Server",
+		"text1": "&l&aG&r&0amespaceMC"
+	},
+	"frame2": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "          The Gamespace Minecraft Server",
+		"text1": "&l&aGa&r&0mespaceMC"
+	},
+	"frame3": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "          The Gamespace Minecraft Server",
+		"text1": "&l&aGam&r&0espaceMC"
+	},
+	"frame4": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "          The Gamespace Minecraft Server",
+		"text1": "&l&aGame&r&0spaceMC"
+	},
+	"frame5": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "          The Gamespace Minecraft Server",
+		"text1": "&l&aGames&r&0paceMC"
+	},
+	"frame6": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "          The Gamespace Minecraft Server",
+		"text1": "&l&aGamesp&r&0aceMC"
+	},
+	"frame7": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "          The Gamespace Minecraft Server",
+		"text1": "&l&aGamespa&r&0ceMC"
+	},
+	"frame8": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "          The Gamespace Minecraft Server",
+		"text1": "&l&aGamespac&r&0eMC"
+	},
+	"frame9": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "          The Gamespace Minecraft Server",
+		"text1": "&l&aGamespace&r&0MC"
+	},
+	"frame10": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "          The Gamespace Minecraft Server",
+		"text1": "&l&aGamespace&r&e&o&l&nMC"
+	},
+	"frame11": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "&6          The Gamespace Minecraft Server",
+		"text1": "&l&aGamespace&r&e&o&l&nMC"
+	},
+	"frame12": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "&6          The Gamespace Minecraft Server",
+		"text1": "&l&aGamespace&r&e&o&l&nMC"
+	},
+	"frame13": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "&6          The Gamespace Minecraft Server",
+		"text1": "&l&aGamespace&r&e&o&l&nMC"
+	},
+	"frame14": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "&6          The Gamespace Minecraft Server",
+		"text1": "&l&aGamespace&r&e&o&l&nMC"
+	},
+	"frame15": { 
+		"icon": "server-icon.png",
+		"icon_spriteX": 0,
+		"icon_spriteY": 0,
+		"online": "default",
+		"max": "default",
+		"players": "default",
+		"text0": "&6          The Gamespace Minecraft Server",
+		"text1": "&0GamespaceMC"
+	}
+}

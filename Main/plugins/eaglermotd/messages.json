@@ -1,0 +1,36 @@
+{
+	"close_socket_after": 1200,
+	"max_sockets_per_ip": 10,
+	"max_total_sockets": 256,
+	"messages": {
+		"all": [
+			{
+				"name": "default",
+				"frames": [ 
+					"frames.frame0",
+					"frames.frame15",
+					"frames.frame1",
+					"frames.frame2",
+					"frames.frame3",
+					"frames.frame4",
+					"frames.frame5",
+					"frames.frame6",
+					"frames.frame7",
+					"frames.frame8",
+					"frames.frame9",
+					"frames.frame10",
+					"frames.frame11",
+					"frames.frame12",
+					"frames.frame13",
+					"frames.frame14"
+				],
+				"interval": 5,
+				"random": false,
+				"shuffle": false,
+				"timeout": 500,
+				"weight": 3.0,
+				"next": "any"
+			}
+		]
+	}
+}
