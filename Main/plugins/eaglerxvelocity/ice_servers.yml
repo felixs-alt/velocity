@@ -1,20 +1,19 @@
 voice_servers_no_passwd:
-- 'stun:stun.l.google.com:19302'
-- 'stun:stun1.l.google.com:19302'
-- 'stun:stun2.l.google.com:19302'
-- 'stun:stun3.l.google.com:19302'
-- 'stun:stun4.l.google.com:19302'
-- 'stun:openrelay.metered.ca:80'
+- 'stun:stun.relay.metered.ca:80'
 voice_servers_passwd:
   openrelay1:
-    url: 'turn:openrelay.metered.ca:80'
-    username: 'openrelayproject'
-    password: 'openrelayproject'
+    url: 'turn:eu-central.relay.metered.ca:80'
+    username: '1a63a175d29143d85158833b'
+    password: '97zXOOt42MTimMQM'
   openrelay2:
-    url: 'turn:openrelay.metered.ca:443'
-    username: 'openrelayproject'
-    password: 'openrelayproject'
+    url: 'turn:eu-central.relay.metered.ca:80?transport=tcp'
+    username: '1a63a175d29143d85158833b'
+    password: '97zXOOt42MTimMQM'
   openrelay3:
-    url: 'turn:openrelay.metered.ca:443?transport=tcp'
-    username: 'openrelayproject'
-    password: 'openrelayproject'
+    url: 'turn:eu-central.relay.metered.ca:443'
+    username: '1a63a175d29143d85158833b'
+    password: '97zXOOt42MTimMQM'
+  openrelay4:
+    url: 'turns:eu-central.relay.metered.ca:443?transport=tcp'
+    username: '1a63a175d29143d85158833b'
+    password: '97zXOOt42MTimMQM'
