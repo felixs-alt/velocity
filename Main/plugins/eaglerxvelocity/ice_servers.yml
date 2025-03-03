@@ -1,9 +1,5 @@
 voice_servers_no_passwd:
-<<<<<<< HEAD
   - 'stun:stun.relay.metered.ca:80'
-=======
-- 'stun:stun.relay.metered.ca:80'
->>>>>>> d0151f11a2b154c7b724182fe6e243fc967b02d8
 voice_servers_passwd:
   openrelay1:
     url: 'turn:eu-central.relay.metered.ca:80'
@@ -20,8 +16,4 @@ voice_servers_passwd:
   openrelay4:
     url: 'turns:eu-central.relay.metered.ca:443?transport=tcp'
     username: '1a63a175d29143d85158833b'
-<<<<<<< HEAD
     password: '97zXOOt42MTimMQM'
-=======
-    password: '97zXOOt42MTimMQM'
->>>>>>> d0151f11a2b154c7b724182fe6e243fc967b02d8
