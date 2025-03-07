@@ -64,7 +64,7 @@ kick-existing-players = false
 #                  description and mod list.
 # - "all":         Uses the backend server's response as the proxy response. The Velocity
 #                  configuration is used if no servers could be contacted.
-ping-passthrough = "DISABLED"
+ping-passthrough = "all"
 
 # If not enabled (default is true) player IP addresses will be replaced by <ip address withheld> in logs
 enable-player-address-logging = true
@@ -99,7 +99,7 @@ compression-level = 6
 login-ratelimit = 0
 
 # Specify a custom timeout for connection timeouts here. The default is five seconds.
-connection-timeout = 5000
+connection-timeout = 10000
 
 # Specify a read timeout for connections here. The default is 30 seconds.
 read-timeout = 30000
@@ -109,7 +109,7 @@ read-timeout = 30000
 haproxy-protocol = false
 
 # Enables TCP fast open support on the proxy. Requires the proxy to run on Linux.
-tcp-fast-open = false
+tcp-fast-open = true
 
 # Enables BungeeCord plugin messaging channel support on Velocity.
 bungee-plugin-message-channel = true
