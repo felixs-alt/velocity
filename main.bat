@@ -1,3 +1,3 @@
 echo loading...
 cd ./Main
-java -jar -Xms64M -Xmx512M Velocity.jar
+C:\Users\felix\AppData\Roaming\ModrinthApp\meta\java_versions\zulu21.38.21-ca-jre21.0.5-win_x64\bin\java.exe -jar -Xms64M -Xmx512M Velocity.jar

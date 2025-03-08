@@ -1,32 +1,44 @@
-[15:02:10] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.4.0-SNAPSHOT (git-f986eb51-b472)...
-[15:02:10] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
-[15:02:10] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use NIO channels, Java compression, Java ciphers
-[15:02:10] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: Player info forwarding is disabled! All players will appear to be connecting from the proxy and will have offline-mode UUIDs.
-[15:02:10] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
-[15:02:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[15:02:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[15:02:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>      EAGLERCRAFTXVELOCITY WARNING:
-[15:02:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[15:02:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This plugin wasn't tested to be 'working'
-[15:02:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  with ANY version of Velocity (and forks)
-[15:02:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  apart from the versions listed below:
-[15:02:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[15:02:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  - Velocity: 3.4.0-SNAPSHOT:6995f415:b464
-[15:02:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  - https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/464/downloads/velocity-3.4.0-SNAPSHOT-464.jar
-[15:02:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[15:02:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This is not a Bukkit/Spigot plugin!
-[15:02:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[15:02:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  Use "-Deaglerxvelocity.stfu=true" to hide
-[15:02:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
-[15:02:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
-[15:02:10] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxvelocity 1.1.7 by lax1dude, ayunami2000
-[15:02:10] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 2 plugins
-[15:02:10] [EaglercraftXVelocity - Task Executor #0/WARN] [eaglerxvelocity]: This plugin is still in development, certain features may not be functional!
-[15:02:10] [EaglercraftXVelocity - Task Executor #0/WARN] [eaglerxvelocity]: Not recommended for public servers yet, please check for updates
-[15:02:10] [Netty NIO Boss #0/INFO] [eaglerxvelocity]: Eaglercraft is listening on: /0.0.0.0:8081
-[15:02:10] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Downloading from maven: https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.45.0.0/sqlite-jdbc-3.45.0.0.jar
-[15:02:30] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
-[15:02:30] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Connected to database: jdbc:sqlite:eaglercraft_auths.db
-[15:02:30] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Voice chat disabled, add "allow_voice: true" to your listeners to enable
-[15:02:30] [Netty NIO Boss #1/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0]:25565
-[15:02:30] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (20,87s)!
+[23:37:09] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.4.0-SNAPSHOT (git-f986eb51-b472)...
+[23:37:09] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
+[23:37:09] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use NIO channels, Java compression, Java ciphers
+[23:37:10] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
+[23:37:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[23:37:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[23:37:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>      EAGLERCRAFTXVELOCITY WARNING:
+[23:37:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[23:37:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This plugin wasn't tested to be 'working'
+[23:37:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  with ANY version of Velocity (and forks)
+[23:37:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  apart from the versions listed below:
+[23:37:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[23:37:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  - Velocity: 3.4.0-SNAPSHOT:6995f415:b464
+[23:37:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  - https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/464/downloads/velocity-3.4.0-SNAPSHOT-464.jar
+[23:37:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[23:37:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  This is not a Bukkit/Spigot plugin!
+[23:37:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[23:37:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  Use "-Deaglerxvelocity.stfu=true" to hide
+[23:37:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>  
+[23:37:10] [main/ERROR] [com.velocitypowered.proxy.console.VelocityConsole]: :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+[23:37:10] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxvelocity 1.1.7 by lax1dude, ayunami2000
+[23:37:10] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin viaversion 5.2.2-SNAPSHOT by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01
+[23:37:10] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 3 plugins
+[23:37:10] [EaglercraftXVelocity - Task Executor #0/WARN] [eaglerxvelocity]: This plugin is still in development, certain features may not be functional!
+[23:37:10] [EaglercraftXVelocity - Task Executor #0/WARN] [eaglerxvelocity]: Not recommended for public servers yet, please check for updates
+[23:37:10] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Total pause menu packet size: 8222 bytes
+[23:37:10] [EaglercraftXVelocity - Task Executor #0/WARN] [io.netty.bootstrap.ServerBootstrap]: Unknown channel option 'io.netty.channel.ChannelOption#TCP_FASTOPEN' for channel '[id: 0x7ebc2c44]'
+[23:37:10] [Netty NIO Boss #0/INFO] [eaglerxvelocity]: Eaglercraft is listening on: /0.0.0.0:8081
+[23:37:11] [EaglercraftXVelocity - Task Executor #0/INFO] [eaglerxvelocity]: Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+[23:37:11] [EaglercraftXVelocity - Task Executor #0/WARN] [eaglerxvelocity]: Voice chat enabled, not recommended for public servers!
+[23:37:11] [EaglerXVelocity: Update Service Tasks/INFO] [eaglerxvelocity]: Loaded certificate: C:\Users\felix\Documents\GitHub\velocity\Main\plugins\eaglerxvelocity\eagcert\$dl.ac3aaed1273ced06ef766ab055337fbf29dc3347.cert
+[23:37:11] [EaglerXVelocity: Update Service Tasks/INFO] [eaglerxvelocity]: Loaded certificate: C:\Users\felix\Documents\GitHub\velocity\Main\plugins\eaglerxvelocity\eagcert\$dl.ba375b9add3c01ca11899be958188189a3885a59.cert
+[23:37:11] [Via-Mappingloader-0/INFO] [viaversion]: Loading block connection mappings ...
+[23:37:11] [EaglercraftXVelocity - Task Executor #0/INFO] [viaversion]: Replacing channel initializers; you can safely ignore the following two warnings.
+[23:37:11] [EaglercraftXVelocity - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[23:37:11] [EaglercraftXVelocity - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The backend channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[23:37:11] [EaglercraftXVelocity - Task Executor #0/INFO] [viaversion]: ViaVersion detected lowest supported version by the proxy: 1.7.2-1.7.5 (4)
+[23:37:11] [EaglercraftXVelocity - Task Executor #0/INFO] [viaversion]: Highest supported version by the proxy: 1.21.4 (769)
+[23:37:11] [ViaVersion - Task Executor #2/INFO] [viaversion]: Finished mapping loading, shutting down loader executor.
+[23:37:11] [ViaVersion - Task Executor #1/WARN] [io.netty.bootstrap.Bootstrap]: Unknown channel option 'TCP_FASTOPEN_CONNECT' for channel '[id: 0x6a813892]'
+[23:37:11] [main/WARN] [io.netty.bootstrap.ServerBootstrap]: Unknown channel option 'io.netty.channel.ChannelOption#TCP_FASTOPEN' for channel '[id: 0xbccb4996]'
+[23:37:11] [Netty NIO Boss #1/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0]:25565
+[23:37:11] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (2,75s)!
+[23:37:12] [ViaVersion - Task Executor #0/INFO] [viaversion]: You are running a development version of the plugin, please report any bugs to GitHub.
