@@ -18,8 +18,8 @@ server_info_button:
   enable_webview_strict_csp: false
 discord_button:
   enable_button: true
-  button_text: 'Random Button'
-  button_url: 'https://invite url here'
+  button_text: 'Download Resource Pack'
+  button_url: 'https://drive.google.com/file/d/1-JPNuRO3-zWy_1HSyVNVd6cRuqb_tIM9/view?usp=sharing'
 custom_images:
   icon_title_L: 'test_image.png'
   icon_title_R: 'test_image.png'
