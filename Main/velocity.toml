@@ -99,7 +99,7 @@ compression-level = 6
 login-ratelimit = 0
 
 # Specify a custom timeout for connection timeouts here. The default is five seconds.
-connection-timeout = 10000
+connection-timeout = 0
 
 # Specify a read timeout for connections here. The default is 30 seconds.
 read-timeout = 0
